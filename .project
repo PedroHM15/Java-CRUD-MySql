@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Java-CRUD</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/classes_de_conexao/Tela_de_acesso$1.class</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/SistemaTelaLogin/src/classes_de_conexao/Tela_de_acesso$1.class</locationURI>
+		</link>
+		<link>
+			<name>src/classes_de_conexao/Tela_de_acesso.class</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/SistemaTelaLogin/src/classes_de_conexao/Tela_de_acesso.class</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
